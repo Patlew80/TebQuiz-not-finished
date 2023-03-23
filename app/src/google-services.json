@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685972191963",
+    "firebase_url": "https://tebquiz-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tebquiz",
+    "storage_bucket": "tebquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685972191963:android:3c243c400785c25c76aafe",
+        "android_client_info": {
+          "package_name": "com.TebQuiz.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685972191963-r58872l55tmjmkhac3tkfmqmmfug3p8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TebQuiz.quiz",
+            "certificate_hash": "6192f38186f81c008dc7cc1ce130c74ca4fbffd5"
+          }
+        },
+        {
+          "client_id": "685972191963-k1qnqcbjs2f3ppe1gco45ut71kco8geg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5DboMzDzOCGpxGAg-qclYa7ekfhXIMxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685972191963-k1qnqcbjs2f3ppe1gco45ut71kco8geg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

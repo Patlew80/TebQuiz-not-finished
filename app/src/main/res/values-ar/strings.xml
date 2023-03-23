@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="drawer_open"></string>
+    <string name="drawer_close"></string>
+    <string name="completed"></string>
+    <string name="congratulations"></string>
+    <string name="time_challenge_msg"></string>
+    <string name="sec"></string>
+    <string name="not_completed"></string>
+    <string name="select_level"></string>
+    <string name="select_category"></string>
+    <string name="learning_zone"></string>
+    <string name="account_delete"></string>
+    <string name="delete_msg"></string>
+
+    <string name="select_sub_category"></string>
+    <string name="self_challenge"></string>
+    <string name="daily_quiz"></string>
+    <string name="random_quiz"></string>
+    <string name="contest"></string>
+    <string name="sound"></string>
+    <string name="apply_code"></string>
+    <string name="Username"></string>
+    <string name="apply"></string>
+    <string name="share_app"></string>
+    <string name="update_msg_1"></string>
+    <string name="not_now"></string>
+    <string name="update_now"></string>
+    <string name="update_alert"></string>
+    <string name="vibration"></string>
+    <string name="rateapp"></string>
+    <string name="bg_music"></string>
+    <string name="share_via"></string>
+    <string name="next_play"></string>
+    <string name="play_again"></string>
+    <string name="quite"></string>
+    <string name="review_answer"></string>
+    <string name="share_score"></string>
+    <string name="share_result"></string>
+    <string name="action_settings"></string>
+    <string name="device_language"></string>
+    <string name="play_next"></string>
+    <string name="lets_play"></string>
+    <string name="instruction"></string>
+    <string name="coinstore"></string>
+    <string name="msg_no_internet"></string>
+    <string name="no_category"></string>
+    <string name="no_data"></string>
+    <string name="ttl_ques"></string>
+    <string name="select_no_of_question"></string>
+    <string name="select_time_period"></string>
+    <string name="no_sub_category"></string>
+    <string name="no_enough_question"></string>
+    <string name="no_enough_questiondaily"></string>
+    <string name="retry"></string>
+    <string name="title"></string>
+    <string name="lets_start"></string>
+    <string name="hello"></string>
+    <string name="_coins"></string>
+    <string name="bm_empty_msg"></string>
+    <string name="empty_alert_msg"></string>
+    <string name="a"></string>
+    <string name="b"></string>
+    <string name="c"></string>
+    <string name="d"></string>
+    <string name="e"></string>
+    <string name="un_attend"></string>
+    <string name="answer"></string>
+    <string name="answerbookmark"></string>
+    <string name="extra_note"></string>
+    <string name="note"></string>
+    <string name="ok"></string>
+    <string name="ad_attribution"></string>
+    <string name="report"></string>
+    <string name="cancel"></string>
+    <string name="submit"></string>
+    <string name="review"></string>
+    <string name="result"></string>
+    <string name="title_already_used"></string>
+    <string name="msg_lifeline_used"></string>
+    <string name="self_challenge_sub_msg"></string>
+    <string name="true_ans"></string>
+    <string name="zero"></string>
+    <string name="challenge_time"></string>
+    <string name="loading"></string>
+    <string name="bookmark_list"></string>
+    <string name="level_not_available"></string>
+    <string name="go_back"></string>
+    <string name="login"></string>
+    <string name="signup"></string>
+    <string name="signup_alert"></string>
+    <string name="invalid_pass"></string>
+    <string name="email_alert_1"></string>
+    <string name="email_alert_2"></string>
+    <string name="pass_alert"></string>
+    <string name="from_camera"></string>
+    <string name="verify_email_sent"></string>
+    <string name="verify_email_sent_f"></string>
+    <string name="ref_code"></string>
+    <string name="act_verify_1"></string>
+    <string name="act_verify_2"></string>
+    <string name="account_deactivate"></string>
+    <string name="select_language"></string>
+    <string name="refer_share_msg_1"></string>
+    <string name="refer_share_msg_2"></string>
+    <string name="msg_enough_coin"></string>
+    <string name="coin_message1"></string>
+    <string name="coin_message2"></string>
+    <string name="not_enough_coin"></string>
+
+
+    <string name="mathscompleted">
+!!</string>
+    <string name="randomcompleted">
+!!</string>
+    <string name="truefalsecompleted">ا
+!!</string>
+
+    <string name="skip"></string>
+    <string name="msg_watch_video"></string>
+    <string name="attended"></string>
+    <string name="correct_ans"></string>
+    <string name="correct"></string>
+    <string name="incorrect"></string>
+    <string name="color_code"></string>
+    <string name="report_hint"></string>
+
+    <string name="about_us"></string>
+    <string name="exit_msg"></string>
+    <string name="exit_msg_quiz"></string>
+    <string name="bookmark_play"></string>
+    <string name="all_complete_msg"></string>
+    <string name="leave_msg_1"></string>
+    <string name="leave_msg_2"></string>
+
+
+    <string name="battle_msg1"></string>
+    <string name="battle_msg2"></string>
+    <string name="battle_msg3"></string>
+
+
+    <string name="has_option"></string>
+    <string name="msg_right"></string>
+    <string name="msg_wrong"></string>
+    <string name="msg_lifeline"></string>
+    <string name="msg_fifty_fifty"></string>
+    <string name="msg_skip"></string>
+    <string name="msg_opinion"></string>
+    <string name="msg_reset"></string>
+    <string name="msg_leaderboard"></string>
+    <string name="leaderboard"></string>
+
+    <string name="textsize_dialog_lbl_fontsize"></string>
+    <string name="font_size"></string>
+    <string name="level_locked"></string>
+
+    <string name="update_profile"></string>
+    <string name="user_statistics"></string>
+    <string name="name"></string>
+    <string name="mobile"></string>
+    <string name="back"></string>
+    <string name="play_quiz"></string>
+    <string name="play"></string>
+    <string name="battle_quiz"></string>
+    <string name="bookmarks"></string>
+    <string name="notification"></string>
+    <string name="show_answer"></string>
+    <string name="from_library"></string>
+    <string name="email"></string>
+    <string name="password"></string>
+    <string name="password_valid"></string>
+    <string name="refer"></string>
+    <string name="forgot_pass"></string>
+    <string name="reset_pass"></string>
+    <string name="logout"></string>
+    <string name="rank"></string>
+    <string name="score"></string>
+    <string name="coins"></string>
+    <string name="statistics"></string>
+    <string name="term_privacy" >By Logging / SigningUp in, you agree to our \nTerms of Service and Privacy Policy</string>
+    <string name="privacy_policy" >Privacy Policy</string>
+    <string name="terms" >Terms of Service</string>
+    <string name="modulo_sign"></string>
+
+    <string name="player_1">1</string>
+    <string name="player_2">2</string>
+    <string name="exit"></string>
+    <string name="play_with_computer1"></string>
+    <string name="congrats"></string>
+    <string name="next_time"></string>
+    <string name="robot"></string>
+    <string name="level"></string>
+    <string name="msg_player_not_available"></string>
+    <string name="question_not_available"></string>
+    <string name="leave_battle_txt"></string>
+    <string name="msg_win_battle"></string>
+    <string name="you_win"></string>
+    <string name="msg_opponent_win_battle"></string>
+    <string name="msg_alert_leave"></string>
+    <string name="msg_draw_game"></string>
+    <string name="try_again1"></string>
+    <string name="winner"></string>
+    <string name="victory_"></string>
+    <string name="you_loss"></string>
+    <string name="defeat"></string>
+    <string name="or"></string>
+    <string name="category"></string>
+    <string name="que"></string>
+    <string name="search_player"></string>
+    <string name="leave_battle"></string>
+    <string name="yes"></string>
+    <string name="no"></string>
+    <string name="back_message"></string>
+    <string name="dailycompleted"></string>
+
+    <string name="invite_frnd"></string>
+    <string name="refer_code_copied"></string>
+    <string name="refer_message_1"></string>
+    <string name="refer_message_2"></string>
+    <string name="refer_message_3"></string>
+    <string name="your_refer_code"></string>
+    <string name="tap_copy"></string>
+    <string name="refer_now"></string>
+    <string name="start_on"></string>
+    <string name="ends_on"></string>
+    <string name="ending_on"></string>
+    <string name="not_enough_entry_coin"></string>
+
+    <string name="today"></string>
+    <string name="month"></string>
+    <string name="all"></string>
+    <string name="top_user"></string>
+    <string name="price"></string>
+    <string name="past"></string>
+    <string name="live"></string>
+    <string name="upcoming"></string>
+
+    <string name="victory"></string>
+    <string name="re_battle"> </string>
+    <string name="logout_msg"></string>
+    <string name="true_false"></string>
+    <string name="contest_complete"> </string>
+    <string name="refer_code_generate_error_msg"></string>
+    <string name="category_select"></string>
+    <string name="subcategory_select"></string>
+    <string name="question_select"></string>
+    <string name="minutes_select"></string>
+    <string name="rewards_message"></string>
+    <string name="rewads_adstitle"></string>
+
+    <string name="otp_msg"></string>
+    <string name="enter_otp">OTP</string>
+    <string name="verify"></string>
+    <string name="phone_num"></string>
+    <string name="sign_up_with_mobile"></string>
+    <string name="entry_fees"></string>
+    <string name="participants"></string>
+    <string name="enter_email"></string>
+    <string name="act_login"> </string>
+    <string name="no_notification"></string>
+    <string name="new_act"></string>
+    <string name="reset_msg1"></string>
+    <string name="reset_msg2"></string>
+    <string name="by_wrteam"></string>
+
+    <string name="facebook_app_id">2338640796222596</string>
+    <string name="fb_login_protocol_scheme">fb2338640796222596</string>
+
+
+    <string name="refer_amp_earn"> </string>
+
+    <string name="wonagaines"></string>
+    <string name="lostagainest"></string>
+
+
+
+
+    <string name="your_game_code"></string>
+    <string name="user_join_alert"></string>
+    <string name="user_join_alert_msg"></string>
+    <string name="join_room"></string>
+    <string name="enter_game_code"></string>
+    <string name="game_code"></string>
+    <string name="stay_back"></string>
+    <string name="leave"></string>
+    <string name="multiplayer_game"></string>
+    <string name="wait_for_players"></string>
+    <string name="minmum_user_join_alert"></string>
+    <string name="battle_result"></string>
+    <string name="room_deactivate_alert"></string>
+    <string name="all_user_left_game"></string>
+    <string name="destroy_game_room_msg"></string>
+    <string name="room_created_msg"></string>
+    <string name="leave_game_room_msg"></string>
+    <string name="join"></string>
+    <string name="create"></string>
+    <string name="enter_code"></string>
+    <string name="view_all"></string>
+    <string name="quiz_zone"></string>
+    <string name="play_zone"></string>
+    <string name="battle_zone"></string>
+    <string name="group_battle"></string>
+    <string name="play_now"></string>
+    <string name="random_battle"></string>
+    <string name="contest_zone"></string>
+    <string name="contest_play"></string>
+    <string name="join_now"></string>
+    <string name="game_deactive_alert"></string>
+    <string name="gameroom_full"></string>
+    <string name="share_code_msg"></string>
+    <string name="msg_oto_game_code"></string>
+    <string name="waiting_msg"></string>
+    <string name="game_code_alert"></string>
+    <string name="practice"></string>
+    <string name="gameroom_code_alert"></string>
+    <string name="share_code"></string>
+
+
+    <string name="one_to_one_battle"></string>
+    <string name="one_to_one_msg"></string>
+    <string name="Waiting_for_opponent"></string>
+    <string name="start_game"></string>
+    <string name="room_create_msg"></string>
+
+    <string name="share_code_oto" ></string>
+    <string name="game_start_msg" ></string>
+    <string name="oppentent_leave"></string>
+    <string name="please_follow_"></string>
+    <string name="secbattle"></string>
+    <string name="application_language">
+</string>
+    <string name="try_after_sometime">
+</string>
+    <string name="adAppId">ca-app-pub-3940256099942544 ~ 3347511713</string>
+    <string name="admob_Rewarded_Video_Ads">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_unit_id">ca-app-pub-3940256099942544/8135179316</string>
+    <string name="admob_openads_id">ca-app-pub-3940256099942544/3419835294</string>
+
+    <string name="learningcompleted" ></string>
+    <string name="learning_play">
+</string>
+    <string name="levea_msg3"></string>
+    <string name="youloss"></string>
+    <string name="you"></string>
+    <string name="enternumber"></string>
+    <string name="entername"></string>
+    <string name="enterpassword"></string>
+    <string name="text_store"></string>
+    <string name="profile_permission"></string>
+    <string name="permission_grant"></string>
+    <string name="delete_successfully"></string>
+    <string name="re_login"></string>
+    <string name="relogin_message"></string>
+    <string name="index">
+</string>
+    <string name="levelfinish"></string>
+    <string name="with"></string>
+    <string name="scorein">
+</string>
+    <string name="finishquiz">
+</string>
+    <string name="quepreparing">
+...</string>
+    <string name="acceptprivacy"></string>
+    <string name="finish">
+</string>
+    <string name="minute">
+</string>
+    <string name="minutein">
+</string>
+</resources>
