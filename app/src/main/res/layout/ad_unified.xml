@@ -28,6 +28,7 @@ card_view:cardUseCompatPadding="true"
                 android:textColor="#FFFFFF"
                 android:textSize="12sp"
                 android:text="Ad"
+                android:fontFamily="@font/audiowide_regular"
                 android:background="#FFCC66"
                 android:width="15dp"
                 android:height="15dp"/>
@@ -85,6 +86,7 @@ card_view:cardUseCompatPadding="true"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:textColor="@color/txt_color"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textSize="16sp"
                             android:maxLines="1"
                             android:ellipsize="end"
@@ -98,6 +100,7 @@ card_view:cardUseCompatPadding="true"
                                 android:id="@+id/ad_advertiser"
                                 android:layout_width="wrap_content"
                                 android:layout_height="match_parent"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:gravity="bottom"
                                 android:textSize="14sp"
                                 android:textStyle="bold"/>
@@ -116,6 +119,7 @@ card_view:cardUseCompatPadding="true"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginEnd="@dimen/margin_10dp"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textSize="12sp"
                             android:maxLines="2"
                             android:ellipsize="end"/>
@@ -137,7 +141,8 @@ card_view:cardUseCompatPadding="true"
                             android:paddingStart="5dp"
                             android:paddingRight="5dp"
                             android:paddingEnd="5dp"
-                            android:textSize="12sp" />
+                            android:textSize="12sp"
+                            android:fontFamily="@font/audiowide_regular"/>
 
                         <TextView
                             android:id="@+id/ad_store"
@@ -147,7 +152,8 @@ card_view:cardUseCompatPadding="true"
                             android:paddingStart="5dp"
                             android:paddingRight="5dp"
                             android:paddingEnd="5dp"
-                            android:textSize="12sp" />
+                            android:textSize="12sp"
+                            android:fontFamily="@font/audiowide_regular"/>
 
                         <Button
                             android:id="@+id/ad_call_to_action"
@@ -155,7 +161,8 @@ card_view:cardUseCompatPadding="true"
                             android:layout_height="wrap_content"
                             android:gravity="center"
                        style="@style/Widget.AppCompat.Button.Colored"
-                            android:textSize="12sp" />
+                            android:textSize="12sp"
+                            android:fontFamily="@font/audiowide_regular"/>
                     </LinearLayout>
                 </RelativeLayout>
             </LinearLayout>

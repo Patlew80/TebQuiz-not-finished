@@ -41,6 +41,7 @@
                         android:layout_gravity="center"
                         android:gravity="center"
                         android:text="@string/has_option"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/txt_color"
                         android:textStyle="bold" />
 
@@ -69,6 +70,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center"
                                 android:padding="5dp"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:text="@string/msg_right"
                                 android:textColor="@color/txt_color" />
 
@@ -94,6 +96,7 @@
                                 android:layout_height="wrap_content"
                                 android:layout_gravity="center_vertical"
                                 android:padding="5dp"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:text="@string/msg_wrong"
                                 android:textColor="@color/txt_color" />
                         </LinearLayout>
@@ -118,6 +121,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
+                        android:fontFamily="@font/audiowide_regular"
                         android:text="@string/battle_quiz"
                         android:textColor="@color/txt_color"
                         android:textStyle="bold" />
@@ -126,6 +130,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="@dimen/margin_10dp"
+                        android:fontFamily="@font/audiowide_regular"
                         android:text="@string/battle_msg1"
                         android:textColor="@color/txt_color" />
 
@@ -133,6 +138,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="@dimen/margin_10dp"
+                        android:fontFamily="@font/audiowide_regular"
                         android:text="@string/battle_msg2"
                         android:textColor="@color/txt_color" />
 
@@ -140,6 +146,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="@dimen/margin_10dp"
+                        android:fontFamily="@font/audiowide_regular"
                         android:text="@string/battle_msg3"
                         android:textColor="@color/txt_color" />
 
@@ -159,6 +166,7 @@
                     android:layout_below="@+id/dividerBattle"
                     android:layout_centerHorizontal="true"
                     android:padding="5dp"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/msg_lifeline"
                     android:textColor="@color/txt_color"
                     android:textStyle="bold" />
@@ -249,6 +257,7 @@
                             android:layout_marginStart="@dimen/margin_10dp"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
+                            android:fontFamily="@font/audiowide_regular"
                             android:text="@string/msg_fifty_fifty"
                             android:textColor="@color/txt_color" />
 
@@ -258,6 +267,7 @@
                             android:layout_marginStart="@dimen/margin_10dp"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
+                            android:fontFamily="@font/audiowide_regular"
                             android:text="@string/msg_skip"
                             android:textColor="@color/txt_color" />
 
@@ -268,6 +278,7 @@
                             android:layout_marginStart="@dimen/margin_10dp"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
+                            android:fontFamily="@font/audiowide_regular"
                             android:text="@string/msg_opinion"
                             android:textColor="@color/txt_color" />
 
@@ -278,6 +289,7 @@
                             android:layout_marginStart="@dimen/margin_10dp"
                             android:layout_weight="1"
                             android:gravity="center_vertical"
+                            android:fontFamily="@font/audiowide_regular"
                             android:text="@string/msg_reset"
                             android:textColor="@color/txt_color" />
                     </LinearLayout>
@@ -304,6 +316,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:padding="5dp"
+                        android:fontFamily="@font/audiowide_regular"
                         android:text="@string/leaderboard"
                         android:textColor="@color/txt_color"
                         android:textStyle="bold" />
@@ -334,6 +347,7 @@
                             android:layout_gravity="center"
                             android:layout_marginStart="@dimen/margin_10dp"
                             android:layout_marginTop="2dp"
+                            android:fontFamily="@font/audiowide_regular"
                             android:text="@string/msg_leaderboard"
                             android:textColor="@color/txt_color" />
 
@@ -364,6 +378,7 @@
             android:gravity="center"
             android:onClick="Start"
             android:padding="@dimen/margin_dp"
+            android:fontFamily="@font/audiowide_regular"
             android:text="@string/lets_play"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/white"

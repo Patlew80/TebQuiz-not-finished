@@ -52,6 +52,7 @@
                 android:layout_gravity="center_horizontal"
                 android:maxLines="1"
                 android:text="@string/player_1"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAlignment="center"
                 android:textColor="@color/white"
                 android:textStyle="bold" />
@@ -104,6 +105,7 @@
                 android:paddingEnd="@dimen/padding_10"
                 android:paddingBottom="2dp"
                 android:text="@string/zero"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/white" />
         </LinearLayout>
 
@@ -121,6 +123,7 @@
                 android:gravity="center"
                 android:maxLines="1"
                 android:text="@string/player_2"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAlignment="center"
                 android:textColor="@color/white"
                 android:textStyle="bold" />
@@ -231,6 +234,7 @@
                             android:paddingEnd="8dp"
                             android:paddingBottom="4dp"
                             android:text="@string/a"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="@dimen/default_text_size" />
 
@@ -245,6 +249,7 @@
                             android:layout_toStartOf="@+id/right_lay_a"
                             android:layout_toEndOf="@+id/tvA"
                             android:text="@string/answer"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                             android:textColor="@color/black" />
 
@@ -262,6 +267,7 @@
                                 android:layout_marginEnd="10dp"
                                 android:background="@color/white"
                                 android:text="@string/player_2"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/right_dark"
                                 android:textStyle="bold"
                                 android:visibility="gone" />
@@ -295,6 +301,7 @@
                             android:paddingEnd="8dp"
                             android:paddingBottom="4dp"
                             android:text="@string/b"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="@dimen/default_text_size" />
 
@@ -308,6 +315,7 @@
                             android:layout_toStartOf="@+id/right_lay_b"
                             android:layout_toEndOf="@+id/tvB"
                             android:text="@string/answer"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                             android:textColor="@color/black" />
 
@@ -325,6 +333,7 @@
                                 android:layout_marginEnd="10dp"
                                 android:background="@color/white"
                                 android:text="@string/player_2"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/right_dark"
                                 android:textStyle="bold"
                                 android:visibility="gone" />
@@ -357,6 +366,7 @@
                             android:paddingEnd="8dp"
                             android:paddingBottom="4dp"
                             android:text="@string/c"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="@dimen/default_text_size" />
 
@@ -370,6 +380,7 @@
                             android:layout_toStartOf="@+id/right_lay_c"
                             android:layout_toEndOf="@+id/tvC"
                             android:text="@string/answer"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                             android:textColor="@color/black" />
 
@@ -387,6 +398,7 @@
                                 android:layout_marginEnd="10dp"
                                 android:background="@color/white"
                                 android:text="@string/player_2"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/right_dark"
                                 android:textStyle="bold"
                                 android:visibility="gone" />
@@ -421,6 +433,7 @@
                             android:paddingEnd="8dp"
                             android:paddingBottom="4dp"
                             android:text="@string/d"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="@dimen/default_text_size" />
 
@@ -434,6 +447,7 @@
                             android:layout_toStartOf="@+id/right_lay_d"
                             android:layout_toEndOf="@+id/tvD"
                             android:text="@string/answer"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                             android:textColor="@color/black" />
 
@@ -451,6 +465,7 @@
                                 android:layout_marginEnd="10dp"
                                 android:background="@color/white"
                                 android:text="@string/player_2"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/right_dark"
                                 android:textStyle="bold"
                                 android:visibility="gone" />
@@ -483,6 +498,7 @@
                             android:paddingEnd="8dp"
                             android:paddingBottom="4dp"
                             android:text="@string/e"
+                            android:fontFamily="@font/audiowide_regular"
 
                             android:textColor="@color/white"
                             android:textSize="@dimen/default_text_size" />
@@ -497,6 +513,7 @@
                             android:layout_toStartOf="@+id/right_lay_e"
                             android:layout_toEndOf="@+id/tvE"
                             android:text="@string/answer"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                             android:textColor="@color/black" />
 
@@ -514,6 +531,7 @@
                                 android:layout_marginEnd="10dp"
                                 android:background="@color/white"
                                 android:text="@string/player_2"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/right_dark"
                                 android:textStyle="bold"
                                 android:visibility="gone" />
@@ -537,6 +555,7 @@
             android:background="@drawable/curv_corner_gradient_bg"
             android:gravity="center"
             android:text="@string/leave_battle"
+            android:fontFamily="@font/audiowide_regular"
             android:textAllCaps="false"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/bg_color"

@@ -29,7 +29,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="@dimen/margin_dp"
                     android:layout_marginTop="@dimen/margin_dp"
-                    android:fontFamily="@font/open_sans_semibold"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/select_category"
                     android:textColor="@color/black"
                     android:textSize="@dimen/txt_size_16" />
@@ -59,7 +59,7 @@
                     android:layout_marginTop="@dimen/margin_dp"
                     android:layout_marginEnd="@dimen/margin_dp"
                     android:background="@drawable/gradient_cat_blue"
-                    android:fontFamily="@font/open_sans_bold"
+                    android:fontFamily="@font/audiowide_regular"
                     android:padding="@dimen/margin_20dp"
                     android:text="@string/select_category"
                     android:textColor="@color/white"
@@ -87,7 +87,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginStart="@dimen/margin_dp"
                     android:layout_marginTop="@dimen/margin_dp"
-                    android:fontFamily="@font/open_sans_semibold"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/select_sub_category"
                     android:textColor="@color/black"
 
@@ -117,7 +117,7 @@
                     android:layout_below="@+id/tvSubCate"
                     android:layout_margin="@dimen/margin_dp"
                     android:background="@drawable/gradient_cat_blue"
-                    android:fontFamily="@font/open_sans_bold"
+                    android:fontFamily="@font/audiowide_regular"
                     android:padding="@dimen/margin_20dp"
                     android:text="@string/select_sub_category"
                     android:textColor="@color/white"
@@ -147,7 +147,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="@dimen/margin_10dp"
-                    android:fontFamily="@font/open_sans_semibold"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/select_no_of_question"
                     android:textColor="@color/black"
                     android:textSize="@dimen/txt_size_16" />
@@ -163,6 +163,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:text="@string/question_not_available"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textColor="@color/txt_color"
                     android:visibility="gone" />
 
@@ -192,7 +193,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="@dimen/margin_10dp"
-                    android:fontFamily="@font/open_sans_semibold"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/select_time_period"
                     android:textColor="@color/black"
                     android:textSize="@dimen/txt_size_16" />
@@ -214,7 +215,7 @@
                 android:layout_marginEnd="@dimen/progress_h_w"
                 android:layout_marginBottom="@dimen/option_btn_height"
                 android:background="@drawable/gradient_cat_blue"
-                android:fontFamily="@font/open_sans_bold"
+                android:fontFamily="@font/audiowide_regular"
                 android:gravity="center"
                 android:onClick="StartChallenge"
                 android:padding="@dimen/margin_20dp"

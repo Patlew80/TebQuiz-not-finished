@@ -1,7 +1,7 @@
 package com.TebQuiz.quiz;
 
 
-import com.wrteam.quiz.R;
+
 
 public class Constant {
 

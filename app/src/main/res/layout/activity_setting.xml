@@ -40,6 +40,7 @@
                         android:layout_centerVertical="true"
                         android:padding="10dp"
                         android:text="@string/sound"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -78,6 +79,7 @@
 
                         android:padding="10dp"
                         android:text="@string/vibration"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -117,6 +119,7 @@
                         android:layout_centerVertical="true"
                         android:padding="10dp"
                         android:text="@string/bg_music"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -158,6 +161,7 @@
                         android:layout_centerVertical="true"
                         android:padding="10dp"
                         android:text="Dark/Light"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -195,6 +199,7 @@
 
                         android:padding="10dp"
                         android:text="@string/font_size"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -226,6 +231,7 @@
 
                         android:padding="10dp"
                         android:text="@string/rateapp"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -254,6 +260,7 @@
                         android:layout_height="wrap_content"
                         android:padding="10dp"
                         android:text="@string/application_language"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/colorPrimaryDark"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -277,6 +284,7 @@
                     android:paddingTop="@dimen/padding_10"
                     android:paddingBottom="@dimen/padding_10"
                     android:text="@string/ok"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
                     android:textColor="@color/white"
                     android:textStyle="bold" />

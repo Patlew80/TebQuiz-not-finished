@@ -42,6 +42,7 @@
                         android:layout_margin="5dp"
                         android:gravity="center"
                         android:text="@string/completed"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textColor="@color/light_background"
                         android:textSize="20sp" />
 
@@ -50,7 +51,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:fontFamily="@font/open_sans_bold"
+                        android:fontFamily="@font/audiowide_regular"
                         android:gravity="center"
                         android:text="@string/victory"
                         android:textAllCaps="true"
@@ -96,6 +97,7 @@
                                 android:paddingRight="@dimen/margin_20dp"
                                 android:paddingBottom="5dp"
                                 android:text="@string/zero"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/white"
                                 android:textStyle="bold" />
 
@@ -113,6 +115,7 @@
                                 android:paddingRight="@dimen/margin_20dp"
                                 android:paddingBottom="5dp"
                                 android:text="@string/zero"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/white"
                                 android:textStyle="bold" />
 
@@ -153,6 +156,7 @@
                                 android:paddingRight="@dimen/margin_20dp"
                                 android:paddingBottom="5dp"
                                 android:text="@string/zero"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/white"
                                 android:textStyle="bold" />
 
@@ -170,6 +174,7 @@
                                 android:paddingRight="@dimen/margin_20dp"
                                 android:paddingBottom="5dp"
                                 android:text="@string/zero"
+                                android:fontFamily="@font/audiowide_regular"
                                 android:textColor="@color/edt_bg"
                                 android:textStyle="bold" />
 
@@ -228,7 +233,7 @@
                             android:id="@+id/tvPlayNext"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:fontFamily="@font/open_sans_semibold"
+                            android:fontFamily="@font/audiowide_regular"
                             android:gravity="center"
                             android:maxLines="1"
                             android:onClick="PlayAgain"
@@ -267,7 +272,7 @@
                             android:id="@+id/txtReview"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:fontFamily="@font/open_sans_semibold"
+                            android:fontFamily="@font/audiowide_regular"
                             android:gravity="center"
                             android:maxLines="1"
                             android:onClick="ReviewAnswers"
@@ -322,7 +327,7 @@
                             android:id="@+id/txtShare"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:fontFamily="@font/open_sans_semibold"
+                            android:fontFamily="@font/audiowide_regular"
                             android:gravity="center"
                             android:maxLines="1"
                             android:onClick="ShareScore"
@@ -365,7 +370,7 @@
                             android:id="@+id/txtRate"
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
-                            android:fontFamily="@font/open_sans_semibold"
+                            android:fontFamily="@font/audiowide_regular"
                             android:gravity="center"
                             android:maxLines="1"
                             android:onClick="RateApp"
@@ -408,6 +413,7 @@
                         android:onClick="Home"
                         android:padding="@dimen/margin_20dp"
                         android:text="@string/quite"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textAllCaps="true"
                         android:textColor="@color/white"
                         android:textSize="@dimen/txt_size_16"

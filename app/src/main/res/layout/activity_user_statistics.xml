@@ -62,7 +62,7 @@
                         android:layout_below="@+id/imgLayout"
                         android:layout_centerHorizontal="true"
                         android:layout_margin="@dimen/padding_10"
-                        android:fontFamily="@font/open_sans_semibold"
+                        android:fontFamily="@font/audiowide_regular"
                         android:text="@string/name"
                         android:textColor="@color/white"
                         android:textSize="22sp" />
@@ -100,6 +100,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/tvRank"
                             android:text="@string/rank"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/light_background"
 
                             android:textSize="16sp" />
@@ -110,6 +111,7 @@
                             android:layout_height="wrap_content"
                             android:layout_centerHorizontal="true"
                             android:text="@string/zero"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -142,6 +144,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/tvCoin"
                             android:text="@string/coins"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/light_background"
                             android:textSize="16sp"
 
@@ -153,6 +156,7 @@
                             android:layout_height="wrap_content"
                             android:layout_centerHorizontal="true"
                             android:text="@string/zero"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -183,6 +187,7 @@
                             android:layout_below="@+id/tvScore"
                             android:layout_centerHorizontal="true"
                             android:text="@string/score"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/light_background"
                             android:textSize="16sp" />
 
@@ -193,6 +198,7 @@
 
                             android:layout_centerHorizontal="true"
                             android:text="@string/zero"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -250,6 +256,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toEndOf="@+id/view3"
                             android:text="@string/zero"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/colorPrimaryDark"
                             android:textSize="18sp" />
 
@@ -259,6 +266,7 @@
                             android:layout_below="@+id/tvAttended"
                             android:layout_toEndOf="@+id/view3"
                             android:text="@string/attended"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/gray"
                             android:textSize="16sp" />
                     </RelativeLayout>
@@ -280,6 +288,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toEndOf="@+id/view1"
                             android:text="@string/zero"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/colorPrimaryDark"
                             android:textSize="18sp" />
 
@@ -290,6 +299,7 @@
                             android:layout_below="@id/tvCorrect"
                             android:layout_toEndOf="@+id/view1"
                             android:text="@string/correct_ans"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/gray"
                             android:textSize="16sp" />
                     </RelativeLayout>
@@ -311,6 +321,7 @@
                             android:layout_height="wrap_content"
                             android:layout_toEndOf="@+id/view2"
                             android:text="@string/zero"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/colorPrimaryDark"
                             android:textSize="18sp" />
 
@@ -320,6 +331,7 @@
                             android:layout_below="@id/tvInCorrect"
                             android:layout_toEndOf="@+id/view2"
                             android:text="@string/incorrect"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/gray"
                             android:textSize="16sp" />
                     </RelativeLayout>
@@ -355,6 +367,7 @@
                             android:layout_height="wrap_content"
                             android:drawablePadding="3dp"
                             android:textColor="@color/txt_color"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textSize="12sp" />
 
                         <TextView
@@ -365,6 +378,7 @@
                             android:layout_toEndOf="@+id/tvCorrectP"
                             android:drawablePadding="3dp"
                             android:textColor="@color/txt_color"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textSize="12sp" />
                     </RelativeLayout>
                 </RelativeLayout>

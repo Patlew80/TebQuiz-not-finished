@@ -42,8 +42,8 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/img"
                     android:layout_centerHorizontal="true"
-                    android:fontFamily="@font/open_sans_bold"
                     android:text="@string/refer_amp_earn"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textAllCaps="true"
                     android:textColor="@color/white"
                     android:textSize="@dimen/txtsize_22" />
@@ -72,6 +72,7 @@
                             android:layout_height="wrap_content"
                             android:gravity="center"
                             android:padding="5dp"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/white"
                             android:textSize="@dimen/txt_size_16" />
                     </LinearLayout>
@@ -103,6 +104,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:text="@string/your_refer_code"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textColor="@color/colorPrimaryDark"
                     android:textSize="@dimen/mid_text" />
 
@@ -111,6 +113,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/padding_10"
+                    android:fontFamily="@font/audiowide_regular"
                     android:background="@drawable/bg_dashedborder"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
                     android:textColor="@color/light_gray"
@@ -122,6 +125,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/padding_15"
                     android:gravity="center"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/tap_copy"
                     android:textColor="@color/colorPrimaryDark" />
 
@@ -140,6 +144,7 @@
                     android:paddingTop="@dimen/margin_10dp"
 
                     android:paddingBottom="@dimen/margin_10dp"
+                    android:fontFamily="@font/audiowide_regular"
                     android:text="@string/refer_now"
                     android:textColor="@color/white"
                     android:textSize="@dimen/txtsize_22"

@@ -30,6 +30,7 @@
                 android:layout_marginTop="@dimen/margin_20dp"
                 android:gravity="center"
                 android:text="@string/one_to_one_battle"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Display1"
                 android:textColor="@color/white" />
 
@@ -39,6 +40,7 @@
                 android:layout_margin="@dimen/margin_10dp"
                 android:gravity="center"
                 android:text="@string/one_to_one_msg"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 android:textColor="@color/white" />
 
@@ -50,6 +52,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="01:00"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Display4"
                 android:textColor="@color/white"
                 android:textStyle="bold"
@@ -93,6 +96,7 @@
                         android:layout_marginBottom="4dp"
                         android:gravity="center"
                         android:text="@string/player_1"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                         android:textColor="@color/white" />
 
@@ -135,6 +139,7 @@
                         android:layout_marginBottom="4dp"
                         android:gravity="center"
                         android:text="@string/player_2"
+                        android:fontFamily="@font/audiowide_regular"
                         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                         android:textColor="@color/white" />
 
@@ -154,6 +159,7 @@
                 android:paddingBottom="@dimen/margin_10dp"
                 android:visibility="gone"
                 android:text="@string/Waiting_for_opponent"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 android:textColor="@color/black" />
 
@@ -164,6 +170,7 @@
                 android:layout_margin="@dimen/option_btn_height"
                 android:gravity="center"
                 android:text="@string/no_category"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/txt_color"
                 android:textSize="@dimen/mid_text"
                 android:visibility="gone" />
@@ -188,6 +195,7 @@
             android:layout_marginBottom="@dimen/padding_15"
             android:layout_toStartOf="@+id/fabShare"
             android:text="@string/share_code_oto"
+            android:fontFamily="@font/audiowide_regular"
             android:textAlignment="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/black" />

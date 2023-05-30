@@ -73,7 +73,7 @@ import com.TebQuiz.quiz.activity.PrivacyPolicy;
 import com.TebQuiz.quiz.helper.ApiConfig;
 import com.TebQuiz.quiz.helper.Session;
 import com.TebQuiz.quiz.helper.Utils;
-import com.wrteam.quiz.R;
+
 
 import org.json.JSONException;
 import org.json.JSONObject;

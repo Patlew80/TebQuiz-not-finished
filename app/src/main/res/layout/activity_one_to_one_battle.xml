@@ -18,6 +18,8 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="@string/one_to_one_battle"
+            android:fontFamily="@font/audiowide_regular"
+            android:textStyle="bold"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             android:textColor="@color/black" />
 
@@ -27,6 +29,7 @@
             android:layout_margin="@dimen/margin_10dp"
             android:gravity="center"
             android:text="@string/one_to_one_msg"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textColor="@color/black" />
 
@@ -46,6 +49,7 @@
                 android:layout_marginTop="@dimen/option_btn_height"
                 android:gravity="center"
                 android:text="01:00"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Display4"
                 android:textColor="@color/black"
                 android:textStyle="bold" />
@@ -56,6 +60,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="@string/Waiting_for_opponent"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
         </LinearLayout>
@@ -71,6 +76,7 @@
         android:layout_marginEnd="@dimen/margin_dp"
         android:layout_marginBottom="@dimen/margin_dp"
         android:background="@drawable/corner_gradient_bg"
+        android:fontFamily="@font/audiowide_regular"
         android:gravity="center"
         android:onClick="StartGame"
         android:paddingStart="@dimen/circle_height"

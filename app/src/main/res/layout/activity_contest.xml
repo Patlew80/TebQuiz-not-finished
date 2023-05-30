@@ -27,6 +27,7 @@
             android:layout_centerVertical="true"
             android:layout_toEndOf="@+id/back"
             android:textColor="@color/black"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
            />
 
@@ -59,6 +60,7 @@
                 android:layout_marginEnd="@dimen/padding_10"
                 android:layout_toEndOf="@+id/tvScore"
                 android:text="00"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="13sp"
                 android:textStyle="bold" />

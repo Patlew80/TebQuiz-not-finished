@@ -45,6 +45,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:text="00:00"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
 
@@ -60,6 +61,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:gravity="center"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
 
@@ -75,6 +77,7 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:text="@string/submit"
+                android:fontFamily="@font/audiowide_regular"
                 android:onClick="SubmitTest"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
