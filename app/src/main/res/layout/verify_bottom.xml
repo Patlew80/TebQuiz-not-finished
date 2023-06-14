@@ -53,7 +53,6 @@
                 android:layout_height="wrap_content"
                 android:background="@color/transparent"
                 android:hint="@string/enter_otp"
-                android:fontFamily="@font/audiowide_regular"
                 android:inputType="number"
                 android:maxLines="1"
                 android:padding="@dimen/margin_20dp"

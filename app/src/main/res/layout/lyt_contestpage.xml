@@ -28,7 +28,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
                 android:scaleType="fitXY"
-                android:src="@drawable/ic_launcher" />
+                android:src="@drawable/ic_homelogo" />
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -39,11 +39,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_toStartOf="@+id/btnarrow"
-                    android:fontFamily="@font/open_sans_bold"
                     android:maxLines="1"
                     android:padding="5dp"
                     android:textColor="@color/white"
-                    android:textSize="18sp" />
+                    android:textSize="18sp"
+                    android:fontFamily="@font/audiowide_regular"/>
 
                 <ImageView
                     android:id="@+id/btnarrow"
@@ -63,7 +63,8 @@
                 android:paddingStart="5dp"
                 android:textColor="@color/white"
                 android:textSize="14sp"
-                android:visibility="gone" />
+                android:visibility="gone"
+                android:fontFamily="@font/audiowide_regular"/>
 
 
             <View
@@ -94,6 +95,7 @@
                     android:paddingBottom="@dimen/padding_10"
                     android:textSize="18sp"
                     android:text="@string/play"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textColor="@color/colorPrimaryDark" />
 
 
@@ -122,6 +124,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="@string/entry_fees"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/light_background"
                             android:textSize="@dimen/text_12sp" />
 
@@ -131,7 +134,8 @@
                             android:layout_height="wrap_content"
 
                             android:textColor="@color/white"
-                            android:textSize="13sp" />
+                            android:textSize="13sp"
+                            android:fontFamily="@font/audiowide_regular"/>
                     </LinearLayout>
 
 
@@ -149,7 +153,8 @@
                             android:layout_height="wrap_content"
                             android:textColor="@color/light_background"
 
-                            android:textSize="@dimen/text_12sp" />
+                            android:textSize="@dimen/text_12sp"
+                            android:fontFamily="@font/audiowide_regular"/>
 
                         <TextView
                             android:id="@+id/txtendDate"
@@ -157,7 +162,8 @@
                             android:layout_height="wrap_content"
 
                             android:textColor="@color/white"
-                            android:textSize="13sp" />
+                            android:textSize="13sp"
+                            android:fontFamily="@font/audiowide_regular"/>
                     </LinearLayout>
 
                     <LinearLayout
@@ -172,6 +178,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="@string/participants"
+                            android:fontFamily="@font/audiowide_regular"
                             android:textColor="@color/light_background"
                             android:textSize="@dimen/text_12sp" />
 
@@ -180,6 +187,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:text="0"
+                            android:fontFamily="@font/audiowide_regular"
 
                             android:textColor="@color/white"
                             android:textSize="13sp" />

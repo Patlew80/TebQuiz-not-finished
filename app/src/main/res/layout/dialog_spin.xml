@@ -16,6 +16,7 @@
         android:layout_marginTop="@dimen/padding_10"
         android:gravity="center"
         android:text="Play SpinWheel Category!!"
+        android:fontFamily="@font/audiowide_regular"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="@color/colorPrimaryDark"
         android:textStyle="bold" />
@@ -37,6 +38,7 @@
             android:padding="5dp"
             android:textColor="@color/black"
             android:textSize="@dimen/default_text_size"
+            android:fontFamily="@font/audiowide_regular"
             />
 
 
@@ -63,6 +65,7 @@
             android:layout_marginStart="@dimen/margin_dp"
             android:layout_weight="1"
             android:text="@string/cancel"
+            android:fontFamily="@font/audiowide_regular"
             android:background="@drawable/left_btn_bg"
             android:textColor="@color/colorPrimaryDark"
             android:textStyle="bold"
@@ -79,6 +82,7 @@
             android:layout_marginEnd="@dimen/margin_dp"
             android:background="@drawable/gradientcurve_bg"
             android:text="@string/play"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/white"
             android:textStyle="bold" />
     </LinearLayout>

@@ -37,6 +37,7 @@
             android:lineSpacingExtra="@dimen/margin_5dp"
             android:letterSpacing="0.05"
             android:text="@string/leave_msg_2"
+            android:fontFamily="@font/audiowide_regular"
             android:textAlignment="center"
             android:textColor="@color/txt_color" />
 
@@ -49,6 +50,7 @@
             android:gravity="center"
             android:padding="@dimen/margin_dp"
             android:text="@string/try_after_sometime"
+            android:fontFamily="@font/audiowide_regular"
             android:textAllCaps="false"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/white" />

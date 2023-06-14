@@ -47,6 +47,7 @@
                 android:layout_centerVertical="true"
                 android:paddingEnd="8dp"
                 android:text="@string/a"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/black"
                 android:textSize="@dimen/default_text_size" />
 
@@ -61,6 +62,7 @@
                 android:layout_toStartOf="@+id/progress_A"
                 android:layout_toEndOf="@+id/tvA"
                 android:text="@string/answer"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
 
@@ -114,6 +116,7 @@
                 android:layout_centerVertical="true"
                 android:paddingEnd="8dp"
                 android:text="@string/b"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/black"
                 android:textSize="@dimen/default_text_size" />
 
@@ -127,6 +130,7 @@
                 android:layout_marginStart="@dimen/margin_10dp"
                 android:layout_toStartOf="@+id/progress_B"
                 android:text="@string/answer"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
 
@@ -182,6 +186,7 @@
                 android:layout_centerVertical="true"
                 android:paddingEnd="8dp"
                 android:text="@string/c"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/black"
                 android:textSize="@dimen/default_text_size" />
 
@@ -195,6 +200,7 @@
                 android:layout_toStartOf="@+id/progress_C"
                 android:layout_toEndOf="@+id/tvC"
                 android:text="@string/answer"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="@color/black" />
 
@@ -249,6 +255,7 @@
                 android:layout_centerVertical="true"
                 android:paddingEnd="8dp"
                 android:text="@string/d"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/black"
                 android:textSize="@dimen/default_text_size" />
 
@@ -260,6 +267,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_toStartOf="@+id/progress_D"
                 android:text="@string/answer"
+                android:fontFamily="@font/audiowide_regular"
                 android:layout_marginStart="@dimen/margin_10dp"
                 android:layout_toEndOf="@+id/tvD"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
@@ -313,6 +321,7 @@
                 android:layout_centerVertical="true"
                 android:paddingEnd="8dp"
                 android:text="@string/e"
+                android:fontFamily="@font/audiowide_regular"
 
                 android:textColor="@color/black"
                 android:textSize="@dimen/default_text_size" />
@@ -325,6 +334,7 @@
                 android:layout_marginEnd="5dp"
                 android:layout_toStartOf="@+id/progress_E"
                 android:text="@string/answer"
+                android:fontFamily="@font/audiowide_regular"
                 android:layout_marginStart="@dimen/margin_10dp"
                 android:layout_toEndOf="@+id/tvE"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"

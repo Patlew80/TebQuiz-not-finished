@@ -31,6 +31,7 @@
         android:layout_toStartOf="@+id/tvRight"
         android:layout_toEndOf="@+id/image"
         android:text="@string/app_name"
+        android:fontFamily="@font/audiowide_regular"
         android:textColor="@color/white" />
 
     <TextView
@@ -45,6 +46,7 @@
         android:paddingEnd="@dimen/margin_10dp"
         android:paddingBottom="@dimen/margin_7dp"
         android:text="0"
+        android:fontFamily="@font/audiowide_regular"
         android:textSize="@dimen/small_text"
         android:textColor="@color/white"
         android:textStyle="bold" />
@@ -63,6 +65,7 @@
         android:paddingEnd="@dimen/margin_10dp"
         android:paddingBottom="@dimen/margin_7dp"
         android:text="0"
+        android:fontFamily="@font/audiowide_regular"
         android:textSize="@dimen/small_text"
         android:textColor="@color/white"
         android:textStyle="bold" />

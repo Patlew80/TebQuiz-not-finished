@@ -43,7 +43,7 @@
                 android:layout_height="40dp"
                 android:layout_marginEnd="@dimen/margin_10dp"
                 android:layout_marginTop="@dimen/margin_20dp"
-                android:src="@drawable/ic_launcher" />
+                android:src="@drawable/ic_homelogo" />
 
 
             <RelativeLayout
@@ -57,9 +57,9 @@
                     android:layout_height="@dimen/margin_10dp"
                     android:gravity="center_vertical"
                     android:text="@string/title"
+                    android:fontFamily="@font/audiowide_regular"
                     android:background="@color/light_gray"
                     android:textSize="20sp"
-                    android:fontFamily="@font/open_sans_bold"
                     android:maxLines="1" />
 
 
@@ -72,6 +72,7 @@
                     android:layout_marginTop="@dimen/margin_10dp"
                     android:textSize="14sp"
                     android:text="@string/name"
+                    android:fontFamily="@font/audiowide_regular"
 
                     />
 
@@ -125,7 +126,7 @@
                 android:layout_height="40dp"
                 android:layout_marginTop="@dimen/margin_20dp"
                 android:layout_marginEnd="@dimen/margin_10dp"
-                android:src="@drawable/ic_launcher" />
+                android:src="@drawable/ic_homelogo" />
 
 
             <RelativeLayout
@@ -138,10 +139,10 @@
                     android:layout_width="100dp"
                     android:layout_height="@dimen/margin_10dp"
                     android:background="@color/light_gray"
-                    android:fontFamily="@font/open_sans_bold"
                     android:gravity="center_vertical"
                     android:maxLines="1"
                     android:text="@string/title"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textSize="20sp" />
 
 
@@ -153,6 +154,7 @@
                     android:layout_marginTop="@dimen/margin_10dp"
                     android:background="@color/light_gray"
                     android:text="@string/name"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textSize="14sp"
 
                     />

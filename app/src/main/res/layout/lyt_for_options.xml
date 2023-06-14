@@ -25,13 +25,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/option_bg"
-            android:fontFamily="@font/open_sans_bold"
             android:gravity="center"
             android:paddingStart="@dimen/margin_5dp"
             android:paddingTop="@dimen/margin_5dp"
             android:paddingEnd="@dimen/margin_5dp"
             android:paddingBottom="@dimen/margin_5dp"
             android:text="@string/a"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/black" />
 
         <TextView
@@ -44,6 +44,7 @@
             android:layout_toStartOf="@+id/progress_A"
             android:layout_toEndOf="@+id/tvA"
             android:text="@string/answer"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/txt_color" />
 
@@ -75,13 +76,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/option_bg"
-            android:fontFamily="@font/open_sans_bold"
             android:gravity="center"
             android:paddingStart="@dimen/margin_5dp"
             android:paddingTop="@dimen/margin_5dp"
             android:paddingEnd="@dimen/margin_5dp"
             android:paddingBottom="@dimen/margin_5dp"
             android:text="@string/b"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/black" />
 
         <TextView
@@ -94,6 +95,7 @@
             android:layout_toStartOf="@+id/progress_B"
             android:layout_toEndOf="@+id/tvB"
             android:text="@string/answer"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/txt_color" />
 
@@ -128,13 +130,13 @@
             android:layout_height="wrap_content"
 
             android:background="@drawable/option_bg"
-            android:fontFamily="@font/open_sans_bold"
             android:gravity="center"
             android:paddingStart="@dimen/margin_5dp"
             android:paddingTop="@dimen/margin_5dp"
             android:paddingEnd="@dimen/margin_5dp"
             android:paddingBottom="@dimen/margin_5dp"
             android:text="@string/c"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/black" />
         <TextView
             android:id="@+id/btnOpt3"
@@ -146,6 +148,7 @@
             android:layout_toStartOf="@+id/progress_C"
             android:layout_toEndOf="@+id/tvC"
             android:text="@string/answer"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/txt_color" />
 
@@ -177,13 +180,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/option_bg"
-            android:fontFamily="@font/open_sans_bold"
             android:gravity="center"
             android:paddingStart="@dimen/margin_5dp"
             android:paddingTop="@dimen/margin_5dp"
             android:paddingEnd="@dimen/margin_5dp"
             android:paddingBottom="@dimen/margin_5dp"
             android:text="@string/d"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/black" />
 
         <TextView
@@ -196,6 +199,7 @@
             android:layout_toStartOf="@+id/progress_D"
             android:layout_toEndOf="@+id/tvD"
             android:text="@string/answer"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/txt_color" />
 
@@ -226,13 +230,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/option_bg"
-            android:fontFamily="@font/open_sans_bold"
             android:gravity="center"
             android:paddingStart="@dimen/margin_5dp"
             android:paddingTop="@dimen/margin_5dp"
             android:paddingEnd="@dimen/margin_5dp"
             android:paddingBottom="@dimen/margin_5dp"
             android:text="@string/e"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/black" />
 
         <TextView
@@ -245,6 +249,7 @@
             android:layout_toStartOf="@+id/progress_E"
             android:layout_toEndOf="@+id/tvE"
             android:text="@string/answer"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/txt_color" />
 

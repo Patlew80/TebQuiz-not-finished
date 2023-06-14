@@ -5,11 +5,11 @@ package com.TebQuiz.quiz;
 
 public class Constant {
 
-    private static String DOMAIN_URL = "https://quizdemo.wrteam.in/"; //domain or admin panel url
+    private static String DOMAIN_URL = "localhost"; //domain or admin panel url
     public static String QUIZ_URL = DOMAIN_URL + "api-v2.php";  //api url
     /////// PARAMETERS  ///////
     public static String AUTHORIZATION = "Authorization";
-    public static String JWT_KEY = "set_your_strong_jwt_secret_key";
+    public static String JWT_KEY = "tebquiz123";
     public static String accessKey = "access_key";
     public static String accessKeyValue = "6808";
     public static String name = "name";

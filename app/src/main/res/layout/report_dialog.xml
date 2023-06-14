@@ -14,6 +14,7 @@
         android:gravity="center"
         android:padding="10dp"
         android:text="@string/report"
+        android:fontFamily="@font/audiowide_regular"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
         android:textColor="@color/colorPrimaryDark"
         android:textStyle="bold" />
@@ -30,7 +31,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="5dp"
-            android:textColor="@color/txt_color" />
+            android:textColor="@color/txt_color"
+            android:fontFamily="@font/audiowide_regular"/>
 
 
         <EditText
@@ -61,6 +63,7 @@
             android:gravity="center"
             android:padding="7dp"
             android:text="@string/cancel"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="@dimen/mid_text"
             android:textStyle="bold" />
@@ -75,6 +78,7 @@
             android:gravity="center"
             android:padding="7dp"
             android:text="@string/submit"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/white"
             android:textSize="@dimen/mid_text"
             android:textStyle="bold" />

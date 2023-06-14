@@ -46,6 +46,7 @@
                     android:layout_height="wrap_content"
                     android:paddingBottom="5dp"
                     android:text="@string/extra_note"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textColor="@color/white"
                     android:textSize="@dimen/mid_text"
                     android:textStyle="bold" />
@@ -56,6 +57,7 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/tvExtraNote"
                     android:text="@string/note"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textColor="@color/white"
                     android:textSize="@dimen/mid_text" />
             </RelativeLayout>

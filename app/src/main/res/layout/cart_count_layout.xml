@@ -14,5 +14,6 @@
         android:background="@drawable/count_bg"
         android:gravity="center"
         android:textColor="@color/white"
+        android:fontFamily="@font/audiowide_regular"
         android:textSize="@dimen/small_text" />
 </RelativeLayout>

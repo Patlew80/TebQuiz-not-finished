@@ -12,6 +12,7 @@
         android:background="@drawable/bottom_view_bg"
         android:gravity="center"
         android:text="40"
+        android:fontFamily="@font/audiowide_regular"
         android:textColor="@color/white" />
 
 </LinearLayout>

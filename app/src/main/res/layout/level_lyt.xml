@@ -43,6 +43,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:text="1"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textAppearance="@style/TextAppearance.AppCompat.Large"
                     android:textColor="@color/black"
                     android:textStyle="bold" />
@@ -53,6 +54,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:text="@string/level"
+                    android:fontFamily="@font/audiowide_regular"
                     android:textColor="@color/gray"
                     android:textSize="@dimen/text_12sp" />
             </LinearLayout>

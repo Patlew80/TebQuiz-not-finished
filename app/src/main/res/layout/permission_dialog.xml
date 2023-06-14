@@ -15,6 +15,7 @@
         android:gravity="center"
         android:padding="@dimen/margin_10dp"
         android:text="@string/permission_grant"
+        android:fontFamily="@font/audiowide_regular"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
         android:textColor="@color/colorPrimaryDark"
         android:textStyle="bold" />
@@ -35,6 +36,7 @@
             android:gravity="center"
             android:padding="5dp"
             android:text="@string/profile_permission"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/black"
             android:textSize="@dimen/textsize_18"
             android:textStyle="bold" />
@@ -55,6 +57,7 @@
         android:paddingEnd="@dimen/circle_height"
         android:paddingBottom="7dp"
         android:text="@string/ok"
+        android:fontFamily="@font/audiowide_regular"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="@dimen/mid_text"
         android:textStyle="bold" />

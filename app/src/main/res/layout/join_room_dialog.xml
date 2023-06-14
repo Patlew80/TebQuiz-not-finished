@@ -31,6 +31,7 @@
         android:layout_margin="@dimen/margin_dp"
         android:gravity="center"
         android:text="@string/enter_game_code"
+        android:fontFamily="@font/audiowide_regular"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="@color/black" />
 
@@ -54,7 +55,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textColor="@color/dark_red" />
+        android:textColor="@color/dark_red"
+        android:fontFamily="@font/audiowide_regular"/>
     <TextView
         android:id="@+id/tvJoinRoom"
         android:layout_width="wrap_content"
@@ -69,6 +71,7 @@
         android:paddingEnd="@dimen/option_btn_height"
         android:paddingBottom="@dimen/padding_10"
         android:text="@string/join_room"
+        android:fontFamily="@font/audiowide_regular"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:textColor="@color/white" />
 </LinearLayout>

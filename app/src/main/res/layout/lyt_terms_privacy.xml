@@ -18,6 +18,7 @@
             android:layout_toStartOf="@+id/imgclose"
             android:padding="5dp"
             android:text="@string/update_alert"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/black" />
 
@@ -36,18 +37,14 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <ImageView
-
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/ic_launcher" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_margin="5dp"
-            android:text="@string/update_msg_1" />
+            android:text="@string/update_msg_1"
+            android:fontFamily="@font/audiowide_regular"/>
     </LinearLayout>
 
     <LinearLayout
@@ -63,6 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="@dimen/margin_10dp"
             android:text="@string/not_now"
+            android:fontFamily="@font/audiowide_regular"
             android:textAllCaps="false"
             android:visibility="invisible" />
 
@@ -73,6 +71,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin_10dp"
             android:text="@string/update_now"
+            android:fontFamily="@font/audiowide_regular"
             android:textAllCaps="false" />
 
     </LinearLayout>

@@ -206,18 +206,15 @@ public class DrawerActivity extends AppCompatActivity implements NavigationView.
 
         final android.app.AlertDialog alertDialog = dialog1.create();
         TextView tvenglish = dialogView.findViewById(R.id.tvenglish);
-        TextView tvHindi = dialogView.findViewById(R.id.tvHindi);
-        TextView tvArbic = dialogView.findViewById(R.id.tvArbic);
+
+
 
 
         tvenglish.setOnClickListener(view -> {
             changeLocale("en");
             alertDialog.dismiss();
         });
-        tvHindi.setOnClickListener(view -> {
-            changeLocale("hi");
-            alertDialog.dismiss();
-        });
+
         alertDialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
         alertDialog.setCancelable(false);
         alertDialog.show();

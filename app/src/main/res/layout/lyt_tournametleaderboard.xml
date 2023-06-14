@@ -25,6 +25,7 @@
             android:paddingStart="4dp"
             android:paddingEnd="6dp"
             android:text="@string/zero"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/colorPrimaryDark"
             android:textStyle="bold" />
         <LinearLayout
@@ -51,6 +52,7 @@
             android:layout_toStartOf="@+id/txtscore"
             android:layout_toEndOf="@+id/lytimg"
             android:text="@string/name"
+            android:fontFamily="@font/audiowide_regular"
             android:textColor="@color/colorPrimaryDark"
             android:textStyle="bold" />
 
@@ -64,7 +66,8 @@
             android:minWidth="70dp"
             android:padding="3dp"
             android:textColor="@color/colorPrimaryDark"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:fontFamily="@font/audiowide_regular"/>
     </RelativeLayout>
 </LinearLayout>
 

@@ -15,6 +15,7 @@
         android:layout_margin="@dimen/margin_dp"
         android:gravity="center"
         android:text="@string/multiplayer_game"
+        android:fontFamily="@font/audiowide_regular"
         android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
     <LinearLayout
@@ -33,13 +34,13 @@
             android:layout_weight="1"
             android:layout_marginEnd="@dimen/margin_10dp"
             android:text="@string/create"
+            android:fontFamily="@font/audiowide_regular"
             android:paddingTop="@dimen/margin_20dp"
             android:paddingBottom="@dimen/margin_20dp"
             android:paddingStart="@dimen/margin_5dp"
             android:paddingEnd="@dimen/margin_5dp"
             android:gravity="center"
             android:textColor="@color/white"
-            android:fontFamily="@font/open_sans_semibold"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
 
 
@@ -57,7 +58,7 @@
             android:background="@drawable/gradient_orange"
             android:gravity="center"
             android:textColor="@color/white"
-            android:fontFamily="@font/open_sans_semibold"
+            android:fontFamily="@font/audiowide_regular"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
 
 

@@ -28,6 +28,7 @@
                 android:layout_weight="20"
                 android:gravity="center"
                 android:text="@string/textsize_dialog_lbl_fontsize"
+                android:fontFamily="@font/audiowide_regular"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textStyle="bold" />
 
@@ -79,6 +80,7 @@
                 android:minHeight="0dp"
                 android:padding="7dp"
                 android:text="@string/ok"
+                android:fontFamily="@font/audiowide_regular"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="@dimen/mid_text" />
         </LinearLayout>

@@ -45,7 +45,8 @@
                         android:layout_height="wrap_content"
                         android:textSize="16sp"
                         android:textStyle="bold"
-                        android:textColor="@color/txt_color"/>
+                        android:textColor="@color/txt_color"
+                        android:fontFamily="@font/audiowide_regular"/>
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -58,7 +59,8 @@
                             android:gravity="bottom"
                             android:textSize="14sp"
                             android:textStyle="bold"
-                            android:textColor="@color/txt_color"/>
+                            android:textColor="@color/txt_color"
+                            android:fontFamily="@font/audiowide_regular"/>
 
                         <RatingBar
                             android:id="@+id/ad_stars"
@@ -83,7 +85,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="20dp"
                     android:textSize="12sp"
-                    android:textColor="@color/txt_color"/>
+                    android:textColor="@color/txt_color"
+                    android:fontFamily="@font/audiowide_regular"/>
 
                 <com.google.android.gms.ads.nativead.MediaView
                     android:layout_below="@+id/ad_body"
@@ -112,7 +115,8 @@
                         android:paddingStart="5dp"
                         android:paddingEnd="5dp"
                         android:textSize="12sp"
-                        android:textColor="@color/txt_color"/>
+                        android:textColor="@color/txt_color"
+                        android:fontFamily="@font/audiowide_regular"/>
 
                     <TextView
                         android:id="@+id/ad_store"
@@ -121,7 +125,8 @@
                         android:paddingStart="5dp"
                         android:paddingEnd="5dp"
                         android:textSize="12sp"
-                        android:textColor="@color/txt_color"/>
+                        android:textColor="@color/txt_color"
+                        android:fontFamily="@font/audiowide_regular"/>
 
                     <Button
                         android:id="@+id/ad_call_to_action"
@@ -130,7 +135,8 @@
                         android:gravity="center"
                         style="@style/Widget.AppCompat.Button.Colored"
                         android:textSize="12sp"
-                        android:minHeight="0dp"/>
+                        android:minHeight="0dp"
+                        android:fontFamily="@font/audiowide_regular"/>
                 </LinearLayout>
             </RelativeLayout>
 
